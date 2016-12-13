@@ -1,4 +1,4 @@
-# Facial-Emotion-Recoginiton
+# Lyrics-Crawler
 
 #Overview
 Using Requests(http for humans) and BeautifulSoup4 to crawle azlyrics and provided artist azlyrics page save lyrics to all of his songs to a text file named 'lyrics'
